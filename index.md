@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+# unignoramus11 <img src="https://user-images.githubusercontent.com/83200950/159107676-0fd3f55b-6da4-46e1-86a1-b431c0967a44.jpg" alt="Me" width="20%" />
+Student at Delhi Public School, Patna
+He/Him
 
-You can use the [editor on GitHub](https://github.com/unignoramus11/unignoramus11.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/unignoramus11/unignoramus11.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Links: 
+ - [GitHub](https://github.com/unignoramus11)
+ - [Google Developer](https://g.dev/unignoramus)
+ - [LinkedIn](https://linkedin.com/in/mohits11)
+ - [Twitter](https://twitter.com/unignoramus11)
