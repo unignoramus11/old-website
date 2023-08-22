@@ -3,6 +3,7 @@
 <br>He/Him
 
 Links: 
+ - [Bio Link](https://bio.link/unignoramus)
  - [GitHub](https://github.com/unignoramus11)
  - [Google Developer](https://g.dev/unignoramus)
  - [LinkedIn](https://linkedin.com/in/mohits11)
