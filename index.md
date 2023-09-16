@@ -6,5 +6,5 @@ Links:
  - [Bio Link](https://bio.link/unignoramus)
  - [GitHub](https://github.com/unignoramus11)
  - [Google Developer](https://g.dev/unignoramus)
- - [LinkedIn](https://linkedin.com/in/mohits11)
+ - [LinkedIn](https://linkedin.com/in/unignoramus)
  - [Twitter](https://twitter.com/unignoramus11)
